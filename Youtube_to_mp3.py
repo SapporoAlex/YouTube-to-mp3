@@ -5,6 +5,7 @@ run = True
 URL = ""
 name = ""
 
+# New mp3s will be created on the Desktop by default
 desktop_path = os.path.join(os.path.expanduser("~"), "Desktop")
 
 # Change to the location you have the ffmpeg bin folder
