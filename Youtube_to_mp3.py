@@ -6,6 +6,8 @@ URL = ""
 name = ""
 
 desktop_path = os.path.join(os.path.expanduser("~"), "Desktop")
+
+# Change to the location you have the ffmpeg bin folder
 ffmpeg_path = os.path.join(os.path.expanduser("~"), "ffmpeg-2024-12-19-git-494c961379-essentials_build/bin")
 
 while run:
