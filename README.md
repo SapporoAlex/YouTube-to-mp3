@@ -9,7 +9,7 @@ Downloads YouTube videos as mp3 format using ffmpeg and the yt-dlp library.
 - Add it's address to the Path in Environment Variables (eg. C:\ffmpeg\ffmpeg-2024-12-19-git-494c961379-essentials_build\bin)
 - Clone this repository
   ```git
-  git clone https://github.com/SapporoAlex/Food-log-app.git
+  git clone https://github.com/SapporoAlex/YouTube-to-mp3.git
   ```
 - Install the library in the repository directory
   ```bash
